@@ -1,4 +1,4 @@
-name: Deploy landing page
+name: Deploy Rhema Homes and Assets
 
 on:
   push:
